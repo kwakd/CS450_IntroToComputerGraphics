@@ -1,0 +1,4 @@
+C:\Users\david\Desktop\CS450_PROJECT3\Debug\Sample.exe
+C:\Users\david\Desktop\CS450_PROJECT3\Debug\Sample.pdb
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\Debug\Sample.exe
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\Debug\Sample.pdb

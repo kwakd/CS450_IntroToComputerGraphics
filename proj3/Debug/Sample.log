@@ -1,0 +1,13 @@
+﻿  sample.cpp
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1498,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1499,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1500,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1503,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1504,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1505,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1516,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1517,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1521,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\sample.cpp(1522,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\david\Desktop\etc\CS450\CS450_PROJECT3\.\Debug\Sample.exe
